@@ -10,6 +10,7 @@
 		<h3>Name: ${customer.firstName} ${customer.lastName}</h3>
 		<h3>Free passes: ${customer.freePasses}</h3>
 		<h3>Postal code: ${customer.postalCode}</h3>
+		<h3>Course code: ${customer.courseCode}</h3>
     <%-- <h3>Fav OS:</h3>
     <ul>
       <collection:forEach var="favOS" items="${student.favoriteOS}">
